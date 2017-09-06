@@ -1,0 +1,6 @@
+{
+  "BACKEND_URL": "http://localhost:8000/",
+  "BACKEND_THRIFT": "http://localhost:8080/",
+  "WEBSOCKET_URL": "ws://localhost:8080/",
+  "ENVIRONMENT": {"name": "development", "debug": true}
+}
